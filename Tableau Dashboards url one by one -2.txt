@@ -1,0 +1,9 @@
+Tableau Dashboards url one by one - 
+
+HOUSE SALES DASHBOARDING----
+
+https://public.tableau.com/app/profile/adarsha.kumar.behera/viz/HouseSalesDynamicDashboarding/Dashboard1?publish=yes
+
+NETFLIX DASHBOARDING---
+
+https://public.tableau.com/app/profile/adarsha.kumar.behera/viz/NetflixShows_16908950101800/Dashboard1?publish=yes
